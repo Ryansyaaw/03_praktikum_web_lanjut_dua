@@ -17,7 +17,7 @@
                   <div class="blog-header-info">
                     <h4 class="blog-category text-info">Creative</h4>
 
-                    <h3><a href="blog-detail.html">The Key to Creative Work is Knowing When to Walk Away</a></h3>
+                    <h3><a href="/blog-detail">The Key to Creative Work is Knowing When to Walk Away</a></h3>
                   </div>
                 </div>
               </div>

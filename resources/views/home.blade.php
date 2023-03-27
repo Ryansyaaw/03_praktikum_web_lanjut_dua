@@ -38,7 +38,7 @@
 
                        <h2 class="mb-4" data-aos="fade-up">the best <strong>Digital Marketing agency</strong> in Rio de Janeiro</h2>
 
-                       <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="project-detail.html">project</a> page, and <a href="contact.html">contact</a> page.
+                       <p class="mb-0" data-aos="fade-up">Total 5 HTML pages are included in this template from TemplateMo website. Please check 2 <a href="blog.html">blog</a> pages, <a href="/project-detail">project</a> page, and <a href="contact.html">contact</a> page.
                        <br><br>You are <strong>allowed</strong> to use this template for commercial or non-commercial purpose. You are NOT allowed to redistribute the template ZIP file on template collection websites.</p>
                   </div>
 
@@ -73,7 +73,7 @@
                                  <small>Marketing</small>
 
                                  <h3>
-                                      <a href="project-detail.html">
+                                      <a href="/project-detail">
                                            <span>Sweet Go Agency</span>
                                            <i class="fa fa-angle-right project-icon"></i>
                                       </a>
@@ -88,7 +88,7 @@
                                  <small>Website</small>
 
                                  <h3>
-                                      <a href="project-detail.html">
+                                      <a href="/project-detail">
                                            <span>Smart Ladies</span>
                                            <i class="fa fa-angle-right project-icon"></i>
                                       </a>
@@ -103,7 +103,7 @@
                                  <small>Branding</small>
 
                                  <h3>
-                                      <a href="project-detail.html">
+                                      <a href="/project-detail">
                                            <span>Shoes factory</span>
                                            <i class="fa fa-angle-right project-icon"></i>
                                       </a>
@@ -118,7 +118,7 @@
                                  <small>Social Media</small>
 
                                  <h3>
-                                      <a href="project-detail.html">
+                                      <a href="/project-detail">
                                            <span>Race Bicycle</span>
                                            <i class="fa fa-angle-right project-icon"></i>
                                       </a>
@@ -133,7 +133,7 @@
                                  <small>Video</small>
 
                                  <h3>
-                                      <a href="project-detail.html">
+                                      <a href="/project-detail">
                                            <span>Ultimate HealthCare</span>
                                            <i class="fa fa-angle-right project-icon"></i>
                                       </a>
