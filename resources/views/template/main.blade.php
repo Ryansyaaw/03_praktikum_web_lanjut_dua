@@ -51,16 +51,16 @@ https://templatemo.com/tm-538-digital-trend
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#about" class="nav-link smoothScroll">Studio</a>
+                        <a href="/" class="nav-link smoothScroll">Studio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#project" class="nav-link smoothScroll">Our Works</a>
+                        <a href="/" class="nav-link smoothScroll">Our Works</a>
                     </li>
                     <li class="nav-item">
                         <a href="/blog" class="nav-link">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a href="contact.html" class="nav-link contact">Contact</a>
+                        <a href="/contact" class="nav-link contact">Contact</a>
                     </li>
                 </ul>
             </div>

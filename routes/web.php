@@ -25,6 +25,9 @@ Route::get('/blog-detail', function(){
 Route::get('/project-detail', function(){
     return view('project-detail');
 });
+Route::get('/contact', function(){
+    return view('contact');
+});
 // Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
